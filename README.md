@@ -166,25 +166,10 @@ I manage the complete development lifecycle: ideation, architecture, design, dev
 │ 1. Practical Utility :: Build software that solves needs.   │
 │ 2. Intuitive UI      :: Minimize friction, maximize clarity.│
 │ 3. Privacy First     :: Offline-first whenever viable.      │
-│ 4. Performance       :: Fast, lightweight, and responsive. │
+│ 4. Performance       :: Fast, lightweight, and responsive.  │
 │ 5. Build to Learn    :: Master architectures by shipping.   │
 └─────────────────────────────────────────────────────────────┘
 ```
-
----
-
-## GitHub Telemetry
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=azaanmr&show_icons=true&theme=synthwave&hide_border=false&title_color=00f3ff&text_color=ffffff&icon_color=ff007f&bg_color=090514&border_color=ff007f" alt="Azaan's GitHub Stats" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azaanmr&layout=compact&theme=synthwave&hide_border=false&title_color=00f3ff&text_color=ffffff&bg_color=090514&border_color=00f3ff" alt="Top Languages" height="160" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=azaanmr&theme=synthwave&hide_border=false&background=090514&ring=ff007f&fire=ffe600&currStreakNum=00f3ff&border=ffe600" alt="GitHub Streak" />
-</div>
 
 ---
 
