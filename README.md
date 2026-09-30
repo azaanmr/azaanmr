@@ -1,18 +1,9 @@
 <div align="center">
 
-<!-- 90s Animated Synthwave Banner -->
+<!-- Header Banner -->
 <img src="./assets/header.svg" alt="Muhammad Azaan Header" width="100%" />
 
 <br/>
-
-```text
-  ___ _____ _   _     _        _    ____  ____  
- / _ \__  /| \ | |   | |      / \  | __ )/ ___| 
-| |_| |/ / |  \| |---| |     / _ \ |  _ \\___ \ 
-|  _  / /_ | |\  |---| |___ / ___ \| |_) |___) |
-|_| |_/____|_| \_|   |_____/_/   \_\____/|____/ 
-  >> ARCHITECTURE • ANDROID • UTILITIES • WEB <<
-```
 
 <p align="center">
   <a href="https://azaanmr.github.io/"><img src="https://img.shields.io/badge/Website-azaanmr.github.io-ff007f?style=flat-square&logo=googlechrome&logoColor=white" alt="Website"/></a>
