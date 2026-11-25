@@ -219,10 +219,7 @@
   <text x="420" y="112" class="crt-font t3">AZN LABS</text>
 
   <!-- Center Monospace Tagline & Blinking Terminal Cursor -->
-  <g transform="translate(420, 154)">
-    <text x="0" y="0" class="status-sub">&gt; SOFTWARE DEVELOPER &amp; BUILDER &lt;</text>
-    <rect x="180" y="-10" width="8" height="13" fill="#00f3ff" class="cursor-box" />
-  </g>
+ 
 
   <!-- Bottom Mini Specs Line -->
   <text x="420" y="186" text-anchor="middle" font-family="'Courier New', monospace" font-size="10" fill="#4ea1ff" letter-spacing="2" opacity="0.75">
